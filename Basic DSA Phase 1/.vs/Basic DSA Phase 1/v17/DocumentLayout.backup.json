@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic problems\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic problems\\primenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic problems\\divisors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic problems\\divisors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic problems\\armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic problems\\armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic problems\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic problems\\palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic problems\\reversenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic problems\\reversenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic problems\\countdigits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic problems\\countdigits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\PrimeNumbers.cs",
+              "RelativeDocumentMoniker": "Basic Problems\\PrimeNumbers.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\PrimeNumbers.cs",
+              "RelativeToolTip": "Basic Problems\\PrimeNumbers.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:00:42.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Divisors.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\Divisors.cs",
+              "RelativeDocumentMoniker": "Basic Problems\\Divisors.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\Divisors.cs",
+              "RelativeToolTip": "Basic Problems\\Divisors.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:56:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Armstrong.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\Armstrong.cs",
+              "RelativeDocumentMoniker": "Basic Problems\\Armstrong.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\Armstrong.cs",
+              "RelativeToolTip": "Basic Problems\\Armstrong.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:51:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\Palindrome.cs",
+              "RelativeDocumentMoniker": "Basic Problems\\Palindrome.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\Palindrome.cs",
+              "RelativeToolTip": "Basic Problems\\Palindrome.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:45:05.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReverseNumber.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\ReverseNumber.cs",
+              "RelativeDocumentMoniker": "Basic Problems\\ReverseNumber.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\ReverseNumber.cs",
+              "RelativeToolTip": "Basic Problems\\ReverseNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:40:58.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountDigits.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\CountDigits.cs",
+              "RelativeDocumentMoniker": "Basic Problems\\CountDigits.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Problems\\CountDigits.cs",
+              "RelativeToolTip": "Basic Problems\\CountDigits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:34:41.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T14:32:23.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

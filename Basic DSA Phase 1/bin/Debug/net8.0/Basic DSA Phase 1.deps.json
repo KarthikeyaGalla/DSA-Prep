@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Basic DSA Phase 1/1.0.0": {
+        "runtime": {
+          "Basic DSA Phase 1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic DSA Phase 1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
