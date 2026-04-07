@@ -12,3 +12,4 @@ C:\Users\karth\Desktop\DSA\Basic DSA Phase 1\obj\Debug\net8.0\refint\Basic DSA P
 C:\Users\karth\Desktop\DSA\Basic DSA Phase 1\obj\Debug\net8.0\Basic DSA Phase 1.pdb
 C:\Users\karth\Desktop\DSA\Basic DSA Phase 1\obj\Debug\net8.0\Basic DSA Phase 1.genruntimeconfig.cache
 C:\Users\karth\Desktop\DSA\Basic DSA Phase 1\obj\Debug\net8.0\ref\Basic DSA Phase 1.dll
+C:\Users\karth\Desktop\DSA\Basic DSA Phase 1\obj\Debug\net8.0\Basic DSA Phase 1.sourcelink.json
