@@ -3,12 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\basic recursion\\ntimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:basic recursion\\ntimes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CE36996-F669-4976-A241-30F435522517}|..\\ByteByteGo Problems Project\\ByteByteGo Problems Project.csproj|c:\\users\\karth\\desktop\\dsa\\bytebytego problems project\\twopointers\\pairsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|c:\\users\\karth\\desktop\\dsa\\basic dsa phase 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D595BA61-4091-41D7-994F-479EFB527F1A}|Basic DSA Phase 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CE36996-F669-4976-A241-30F435522517}|..\\ByteByteGo Problems Project\\ByteByteGo Problems Project.csproj|c:\\users\\karth\\desktop\\dsa\\bytebytego problems project\\twopointers\\tripletsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CE36996-F669-4976-A241-30F435522517}|..\\ByteByteGo Problems Project\\ByteByteGo Problems Project.csproj|c:\\users\\karth\\desktop\\dsa\\bytebytego problems project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +19,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NTimes.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Recursion\\NTimes.cs",
-              "RelativeDocumentMoniker": "Basic Recursion\\NTimes.cs",
-              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Basic Recursion\\NTimes.cs",
-              "RelativeToolTip": "Basic Recursion\\NTimes.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwGYAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TripletSum.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
+              "RelativeDocumentMoniker": "..\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
+              "RelativeToolTip": "..\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T16:58:24.928Z",
+              "WhenOpened": "2026-04-07T16:30:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PairSum.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
+              "RelativeDocumentMoniker": "..\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
+              "RelativeToolTip": "..\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T15:55:43.034Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ByteByteGo Problems Project\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\Program.cs",
+              "RelativeToolTip": "..\\ByteByteGo Problems Project\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T14:32:23.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T15:20:54.179Z"
             }
           ]
         }

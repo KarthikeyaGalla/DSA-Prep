@@ -1,4 +1,6 @@
-﻿using Basic_DSA_Phase_1.Basic_Problems;
+﻿using Basic_DSA_Phase_1.Basic_Hashing.ArrayHashing;
+using Basic_DSA_Phase_1.Basic_Hashing.MapHashing;
+using Basic_DSA_Phase_1.Basic_Problems;
 using Basic_DSA_Phase_1.Basic_Recursion;
 using System.Security.Cryptography.X509Certificates;
 using static System.Runtime.InteropServices.JavaScript.JSType;
@@ -71,18 +73,18 @@ namespace Basic_DSA_Phase_1
 
             //Basic Recursion
 
-            //something Something = new something();
-            //Something.PrintSomething(5);
+            //Something Something_1 = new Something();
+            //Something_1.PrintSomething(5);
 
-            //something Something1 = new something();
+            //Something Something1 = new Something();
             //Something1.PrintSomething(5);
             //Console.WriteLine();
 
             //NameNTimes nameNTimes = new NameNTimes();
             //nameNTimes.PrintNameNTimes("John", 5);
 
-            int n = Convert.ToInt32(Console.ReadLine());
-            NTimes nTimes = new NTimes();
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //NTimes nTimes = new NTimes();
             //nTimes.Print1toNTimes(n);
             //nTimes.PrintnTo1Times(n);
             //int sumValue = nTimes.SumOfN(n);
@@ -92,9 +94,33 @@ namespace Basic_DSA_Phase_1
 
             //Console.WriteLine($"Fibonacci Number for {n} numbers is {nTimes.FibonacciOfN(n)}");
 
-            string[] Array = { "karthik", "sai", "teja", "reddy" };
-            nTimes.ReverseArray(Array);
-            nTimes.PalindromeCheck("karthik");
+            //string[] Array = { "karthik", "sai", "teja", "reddy" };
+            //nTimes.ReverseArray(Array);
+            //nTimes.PalindromeCheck("karthik");
+
+
+            //Given an array of integers: [1, 2, 1, 3, 2] and we are given some queries: [1, 3, 4, 2, 10].For each query, we need to find out how many times the number appears in the array
+            int[] arr = { 1, 2, 1, 3, 2, 5, 7, 5 };
+            int[] queries = { 1, 3, 4, 2, 10, 7 };
+            NumberHashing numberHashing = new NumberHashing();
+            numberHashing.Hashing(arr);
+            numberHashing.PrintHash();
+            numberHashing.PrintHashForQueries(queries);
+
+            char[] chararr = { 'k', 'a', 'r', 't', 'h', 'i', 'k' };
+            char[] charqueries = { 'k', 'a', 'r', 'y', 'h', 'i', 'x' };
+            CharecterHashing charecterHashing = new CharecterHashing();
+            charecterHashing.Hashing(chararr);
+            charecterHashing.PrintHash();
+            charecterHashing.PrintHashForQueries(charqueries);
+
+            int[] maparr = { 1, 2, 1, 3, 2, 5, 7, 5 };
+            int[] mapqueries = { 1, 3, 4, 2, 10, 7 };
+            MapHashing mapHashing = new MapHashing();
+            mapHashing.Hashing(maparr);
+            mapHashing.PrintHash();
+            mapHashing.PrintHashForQueries(mapqueries);
+
         }
     }
 }

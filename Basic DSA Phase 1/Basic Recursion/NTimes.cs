@@ -8,7 +8,7 @@ namespace Basic_DSA_Phase_1.Basic_Recursion
 {
     public class NTimes
     {
-        public static string name;
+        public static string? name;
         public int counter = 0;
         //public int sum = 0;
 

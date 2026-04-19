@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37012.4 d17.14
+VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic DSA Phase 1", "Basic DSA Phase 1.csproj", "{D595BA61-4091-41D7-994F-479EFB527F1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTechiniques", "..\SortingTechiniques\SortingTechiniques.csproj", "{CFED76F5-C618-4E9D-94E3-916CCF897813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteByteGo Problems Project", "..\ByteByteGo Problems Project\ByteByteGo Problems Project.csproj", "{4CE36996-F669-4976-A241-30F435522517}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D595BA61-4091-41D7-994F-479EFB527F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D595BA61-4091-41D7-994F-479EFB527F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D595BA61-4091-41D7-994F-479EFB527F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFED76F5-C618-4E9D-94E3-916CCF897813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFED76F5-C618-4E9D-94E3-916CCF897813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFED76F5-C618-4E9D-94E3-916CCF897813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFED76F5-C618-4E9D-94E3-916CCF897813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE36996-F669-4976-A241-30F435522517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE36996-F669-4976-A241-30F435522517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE36996-F669-4976-A241-30F435522517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE36996-F669-4976-A241-30F435522517}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

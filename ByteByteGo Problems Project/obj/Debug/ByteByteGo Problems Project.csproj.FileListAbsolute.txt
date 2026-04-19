@@ -1,0 +1,8 @@
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\bin\Debug\ByteByteGo Problems Project.exe.config
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\bin\Debug\ByteByteGo Problems Project.exe
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\bin\Debug\ByteByteGo Problems Project.pdb
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\obj\Debug\ByteByteGo Problems Project.csproj.AssemblyReference.cache
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\obj\Debug\ByteByteGo Problems Project.csproj.CoreCompileInputs.cache
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\obj\Debug\ByteByteGo Problems Project.exe
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\obj\Debug\ByteByteGo Problems Project.pdb
+C:\Users\karth\Desktop\DSA\ByteByteGo Problems Project\obj\Debug\ByteByteGo Problems Project.exe.config

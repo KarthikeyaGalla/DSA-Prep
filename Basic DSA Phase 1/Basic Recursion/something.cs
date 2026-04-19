@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Basic_DSA_Phase_1.Basic_Recursion
 {
-    public class something
+    public class Something
     {
         public static int counter = 0;
         public void PrintSomething(int n)
