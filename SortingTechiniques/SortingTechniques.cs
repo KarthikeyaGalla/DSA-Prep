@@ -10,5 +10,7 @@ namespace SortingTechiniques
     {
         int[] Array { get; set; }
         int[] SortArray();
+        void TimeComplexity();
+        void SpaceComplexity();
     }
 }

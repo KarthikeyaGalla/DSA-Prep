@@ -22,29 +22,48 @@ namespace ByteByteGo_Problems_Project
             //Console.WriteLine($"Pair sum: {result3[0]} and {result3[1]}");
             //Console.WriteLine();
 
-            TripletSum tripletsum = new TripletSum(new int[] { 0, -1, 2, -3, 1 });
-            var result = tripletsum.BruteForce();
-            Console.WriteLine($"Triplet Sum Results: ");
-            foreach(var arr in result)
-            {
-                foreach(var num in arr)
-                {
-                    Console.Write(num + " ");
-                }
-                Console.WriteLine();
-            }
-            Console.WriteLine();
-            var result1 = tripletsum.MyApproach();
-            Console.WriteLine($"Triplet Sum Results: ");
-            foreach(var arr in result1)
-            {
-                foreach(var num in arr)
-                {
-                    Console.Write(num + " ");
-                }
-                Console.WriteLine();
-            }
-            Console.WriteLine();
+            //    TripletSum tripletsum = new TripletSum(new int[] { 0, -1, 2, -3, 1 });
+            //    var result = tripletsum.BruteForce();
+            //    Console.WriteLine($"Triplet Sum Results: ");
+            //    foreach(var arr in result)
+            //    {
+            //        foreach(var num in arr)
+            //        {
+            //            Console.Write(num + " ");
+            //        }
+            //        Console.WriteLine();
+            //    }
+            //    Console.WriteLine();
+            //    var result1 = tripletsum.MyApproach();
+            //    Console.WriteLine($"Triplet Sum Results: ");
+            //    foreach(var arr in result1)
+            //    {
+            //        foreach(var num in arr)
+            //        {
+            //            Console.Write(num + " ");
+            //        }
+            //        Console.WriteLine();
+            //    }
+            //    Console.WriteLine();
+
+            //IsPalindromeValid palindromecheck = new IsPalindromeValid("racecar");
+            //bool check = palindromecheck.IsPalindromeValidCheck();
+            //if (check)
+            //{
+            //    Console.WriteLine("It is a valid Palindrome.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("It is not a valid Palindrome.");
+            //}
+
+            // Largest Container
+            //Input: heights = [2, 7, 8, 3, 7, 6]
+            //Output: 24
+            int[] heights = new int[] { 2, 7, 8, 3, 7, 6 };
+            LargestContainer largestContainer = new LargestContainer(heights);
+            int output = largestContainer.SolveLargestContainer();
+            Console.WriteLine($"The largest container size is {output}");
         }
     }
 }

@@ -6,15 +6,25 @@ using System.Threading.Tasks;
 
 namespace SortingTechiniques.SortingAlgorithms
 {
-    public class QuickSort : SortingTechniques
+    public class QuickSort : DisplaySorting, SortingTechniques
     {
-        public int[] Array { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+        public int[] Array { get; set; }
 
-        public QuickSort(int[] array)
+        public QuickSort(int[] arr)
         {
-            Array = array;
+            Array = arr;
         }
         public int[] SortArray()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void TimeComplexity()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void SpaceComplexity()
         {
             throw new NotImplementedException();
         }

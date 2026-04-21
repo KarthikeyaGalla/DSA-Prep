@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SortingTechiniques.SortingAlgorithms
 {
-    public class BubbleSort : SortingTechniques
+    public class BubbleSort : DisplaySorting, SortingTechniques
     {
         public int[] Array { get; set; }
 
@@ -34,6 +34,18 @@ namespace SortingTechiniques.SortingAlgorithms
                 }
             }
             return Array;
+        }
+
+        public void TimeComplexity()
+        {
+            Console.WriteLine("Best Case: O(n)");
+            Console.WriteLine("Average Case: O(n²)");
+            Console.WriteLine("Worst Case: O(n²)");
+        }
+
+        public void SpaceComplexity()
+        {
+            Console.WriteLine("O(1) for all the cases");
         }
     }
 }

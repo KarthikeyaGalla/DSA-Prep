@@ -3,13 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\karth\\Desktop\\DSA\\Basic DSA Phase 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CE36996-F669-4976-A241-30F435522517}|..\\ByteByteGo Problems Project\\ByteByteGo Problems Project.csproj|c:\\users\\karth\\desktop\\dsa\\bytebytego problems project\\twopointers\\pairsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CE36996-F669-4976-A241-30F435522517}|..\\ByteByteGo Problems Project\\ByteByteGo Problems Project.csproj|c:\\users\\karth\\desktop\\dsa\\bytebytego problems project\\twopointers\\tripletsum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\sortingalgorithms\\insertionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CE36996-F669-4976-A241-30F435522517}|..\\ByteByteGo Problems Project\\ByteByteGo Problems Project.csproj|c:\\users\\karth\\desktop\\dsa\\bytebytego problems project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\sortingalgorithms\\mergesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\sortingalgorithms\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\displaysorting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\sortingalgorithms\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\sortingalgorithms\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFED76F5-C618-4E9D-94E3-916CCF897813}|..\\SortingTechiniques\\SortingTechiniques.csproj|c:\\users\\karth\\desktop\\dsa\\sortingtechiniques\\sortingtechniques.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,44 +34,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TripletSum.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
-              "RelativeDocumentMoniker": "..\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
-              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
-              "RelativeToolTip": "..\\ByteByteGo Problems Project\\TwoPointers\\TripletSum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAARAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\QuickSort.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\SortingAlgorithms\\QuickSort.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\QuickSort.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\SortingAlgorithms\\QuickSort.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T16:30:14.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PairSum.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
-              "RelativeDocumentMoniker": "..\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
-              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
-              "RelativeToolTip": "..\\ByteByteGo Problems Project\\TwoPointers\\PairSum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:55:43.034Z",
+              "WhenOpened": "2026-04-21T17:33:38.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\Program.cs",
-              "RelativeDocumentMoniker": "..\\ByteByteGo Problems Project\\Program.cs",
-              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\ByteByteGo Problems Project\\Program.cs",
-              "RelativeToolTip": "..\\ByteByteGo Problems Project\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCwAAAAiAAAAAAAAAA==",
+              "Title": "MergeSort.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\MergeSort.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\SortingAlgorithms\\MergeSort.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\MergeSort.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\SortingAlgorithms\\MergeSort.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T15:20:54.179Z"
+              "WhenOpened": "2026-04-21T17:32:57.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\Program.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\Program.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:30:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplaySorting.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\DisplaySorting.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\DisplaySorting.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\DisplaySorting.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\DisplaySorting.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:20:23.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\SortingAlgorithms\\BubbleSort.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\BubbleSort.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\SortingAlgorithms\\BubbleSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:07:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortingTechniques.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingTechniques.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\SortingTechniques.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingTechniques.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\SortingTechniques.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:07:02.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertionSort.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\InsertionSort.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\SortingAlgorithms\\InsertionSort.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\InsertionSort.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\SortingAlgorithms\\InsertionSort.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:05:33.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2f5a4ff6-ac5c-4e20-9c0f-ed52fa6b9bdc",
+        "Display": 0,
+        "X": 592,
+        "Y": 186,
+        "Width": 1425,
+        "Height": 575,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "..\\SortingTechiniques\\SortingAlgorithms\\SelectionSort.cs",
+              "ToolTip": "C:\\Users\\karth\\Desktop\\DSA\\SortingTechiniques\\SortingAlgorithms\\SelectionSort.cs",
+              "RelativeToolTip": "..\\SortingTechiniques\\SortingAlgorithms\\SelectionSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:12:50.366Z",
+              "EditorCaption": ""
             }
           ]
         }

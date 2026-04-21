@@ -20,6 +20,7 @@ namespace SortingTechiniques
                 Console.Write(Array[i] + " ");
             }
 
+            Array = new int[] { 11, 5, 7, 3, 9 };
             Console.WriteLine("\n\n");
             SortingTechniques sortingTechnique2 = new BubbleSort(Array);
             Array = sortingTechnique2.SortArray();
@@ -28,6 +29,21 @@ namespace SortingTechiniques
             {
                 Console.Write(Array[i] + " ");
             }
+
+            Array = new int[] { 11, 5, 7, 3, 9 };
+
+            Console.WriteLine("\n\n");
+            InsertionSort insertionsort = new InsertionSort(Array);
+            Array = insertionsort.SortArray();
+            Console.WriteLine("Insertion Sort: ");
+            insertionsort.DisplayArray(Array);
+
+            Array = new int[] { 11, 5, 7, 3, 9 };
+            Console.WriteLine("\n\n");
+            MergeSort mergesort = new MergeSort(Array);
+            mergesort.mergeSortRecursion(Array);
+            Console.WriteLine("Merge Sort: ");
+            mergesort.DisplayArray(Array);
         }
     }
 }

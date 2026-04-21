@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basic DSA Phase 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fd33d8e5b9ca28740192c21e0bba222997c9e3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83793b8b808d895790f952f73f6de8899c5db85e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basic DSA Phase 1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basic DSA Phase 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

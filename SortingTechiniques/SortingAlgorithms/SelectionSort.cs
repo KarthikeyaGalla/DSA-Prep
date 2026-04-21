@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SortingTechiniques.SortingAlgorithms
 {
-    public class SelectionSort : SortingTechniques
+    public class SelectionSort : DisplaySorting, SortingTechniques
     {
         public int[] Array { get; set; }
         public SelectionSort(int[] arr)
@@ -40,6 +40,18 @@ namespace SortingTechiniques.SortingAlgorithms
                 }
             }
             return Array;
+        }
+
+        public void TimeComplexity()
+        {
+            Console.WriteLine("Best Case: O(n²)");
+            Console.WriteLine("Average Case: O(n²)");
+            Console.WriteLine("Worst Case: O(n²)");
+        }
+
+        public void SpaceComplexity()
+        {
+            Console.WriteLine("O(1) for all the cases");
         }
     }
 }
